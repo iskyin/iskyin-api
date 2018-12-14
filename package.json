@@ -1,0 +1,24 @@
+{
+  "name": "iskyin-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lenjee/iskyin-api.git"
+  },
+  "author": "skyin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lenjee/iskyin-api/issues"
+  },
+  "homepage": "https://github.com/lenjee/iskyin-api#readme",
+  "dependencies": {
+    "koa": "^2.6.2",
+    "koa-router": "^7.4.0"
+  },
+  "devDependencies": {}
+}
